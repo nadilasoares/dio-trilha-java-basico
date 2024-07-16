@@ -10,6 +10,7 @@ public class ExemploBreakContinue {
 		
 	}
 	//Qual a saída no console ?
+    //No break, so vai ate o numero 2, e no continue, ele pula o número 3 e continua a contagem.
 
     }
 
